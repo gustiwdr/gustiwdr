@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Gusti Putu Wulandari!</h1>
+<h1 align="center">👋 Hello, I am Gusti Putu Wulandari!</h1>
 
 <p align="center">
   <samp>Computer Science Student at Esa Unggul University</samp>
