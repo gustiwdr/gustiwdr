@@ -20,6 +20,7 @@ As a Computer Science student, I am deeply passionate about technology, particul
 If you're interested in collaborating or just exchanging ideas, feel free to contact me through:
 
 - Email: [gustiputuwulandari1409@gmail.com](mailto:gustiputuwulandari1409@gmail.com)
-- LinkedIn: [Gusti Putu Wulandari](https://www.linkedin.com/in/gustiputuwulandari/)
+- LinkedIn: [Gusti Putu Wulandari](https://www.linkedin.com/in/gustiputuwulandari)
+- Instagram: [@gustiwdr](https://www.instagram.com/gustiwdr)
 
 Thank you for visiting my GitHub profile. 😊
