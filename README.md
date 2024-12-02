@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Gusti Putu Wulandari!</h1>
 
 <p align="center">
-  <samp>Informatics Engineering Student at Esa Unggul University</samp>
+  <samp>Computer Science Student at Esa Unggul University</samp>
   <br>
   <samp>Welcome to my GitHub profile!</samp>
 </p>
@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me
-I'm a student studying Informatics Engineering at Esa Unggul University. I'm really into technology, especially web development, artificial intelligence, and machine learning. I'm passionate about learning and improving my skills in these areas to succeed in this fast-paced field. My goal is to use technology to solve real-world problems and make a positive impact. I'm excited about the opportunities ahead and look forward to making a difference in the tech world as I continue my studies.
+As a Computer Science student, I am deeply passionate about technology, particularly in web and mobile development. I am committed to continuously learning and refining my skills to excel in this dynamic and fast-evolving field. Driven by a desire to leverage technology to solve real-world challenges, I aim to create impactful solutions that contribute positively to society. With a strong foundation in computer science and a growth-oriented mindset, I am excited to explore opportunities that will allow me to innovate, collaborate, and make meaningful contributions to the tech industry.
 
 ## 📫 Contact Me
 
