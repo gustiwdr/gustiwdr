@@ -22,6 +22,6 @@ If you're interested in collaborating or just exchanging ideas, feel free to con
 - Email: [gustiputuwulandari1409@gmail.com](mailto:gustiputuwulandari1409@gmail.com)
 - LinkedIn: [Gusti Putu Wulandari](https://www.linkedin.com/in/gustiputuwulandari/)
 - Instagram: [@gustiwdr](https://www.instagram.com/gustiwdr)
-- Website: [gustiwdr.my.id](https://www.gustiwdr.my.id)
+- Website: [gustiwdr.my.id](https://gustiwdr.my.id)
 
 Thank you for visiting my GitHub profile. 😊
