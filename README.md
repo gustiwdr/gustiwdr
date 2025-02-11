@@ -13,7 +13,9 @@
 </p>
 
 ## 🚀 About Me
-As a Computer Science student, I am deeply passionate about technology, particularly in web and mobile development. I am committed to continuously learning and refining my skills to excel in this dynamic and fast-evolving field. Driven by a desire to leverage technology to solve real-world challenges, I aim to create impactful solutions that contribute positively to society. With a strong foundation in computer science and a growth-oriented mindset, I am excited to explore opportunities that will allow me to innovate, collaborate, and make meaningful contributions to the tech industry.
+I am a Computer Science student at Esa Unggul University with a strong passion for technology. Currently, I work part-time as a programming tutor, specializing in Python, at a learning center. Additionally, I serve as the PIC for the Google Developer Group on Campus, where I actively organize tech-related activities for students.
+
+I have a deep interest in software development and technology, particularly in web and mobile development. I have worked on various projects, ranging from a Laravel-based restaurant table reservation system to mobile applications built with Flutter. Furthermore, I am currently enhancing my skills in ReactJS and Data Structures & Algorithms to strengthen my programming logic.  
 
 ## 📫 Contact Me
 
