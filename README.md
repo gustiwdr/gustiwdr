@@ -21,11 +21,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm currently a **Computer Science student** at **Esa Unggul University**, actively exploring the tech world while juggling work and study.
-
-👩‍💻 I work part-time as a **Programming Tutor** and intern at:
-- **Kudata** (Remote) – Frontend Engineer
-- **PT Bima Digital Indonesia** (Remote) – Frontend Web Developer
+I'm currently a **Computer Science student** at **Esa Unggul University**, actively exploring the tech world while juggling work and study.
 
 📱 My tech stack includes:
 - **Frontend**: HTML, CSS, JavaScript, ReactJS, Next.js, Tailwind CSS
