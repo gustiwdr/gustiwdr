@@ -20,8 +20,8 @@
 ---
 
 ## 💫 About Me:
-I'm currently a Computer Science student at Esa Unggul University, actively exploring the tech world while juggling work and study.
-🎧 I code better with music on. Lo-fi, pop, or whatever fits the mood.
+I'm currently a Computer Science student at Esa Unggul University, actively exploring the tech world while juggling work and study.  
+🎧 I code better with music on. Lo-fi, pop, or whatever fits the mood.  
 📚 I enjoy reading and can get lost in tech, AI, or even history topics for hours.
 
 ## 💻 Tech Stack:
