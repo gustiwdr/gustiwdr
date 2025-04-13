@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Gusti Putu Wulandari!</h1>
 
 <p align="center">
-  <samp>💻 Computer Science Student | 📍 Esa Unggul University</samp><br>
+  <samp>💻 Computer Science Student<br>
   <samp>✨ Passionate in Tech, Code, and Community</samp>
 </p>
 
@@ -20,7 +20,7 @@
 ---
 
 ## About Me:
-I'm currently a Computer Science student at Esa Unggul University, actively exploring the tech world while juggling work and study.  
+I'm currently a Computer Science student, actively exploring the tech world while juggling work and study.  
 🎧 I code better with music on. Lo-fi, pop, or whatever fits the mood.  
 📚 I enjoy reading and can get lost in tech, AI, or even history topics for hours.
 
@@ -33,5 +33,5 @@ I'm currently a Computer Science student at Esa Unggul University, actively expl
 ---
 
 <p align="center">
-  <samp>✨ Thank you for visiting my GitHub profile! Have a great day! 😊</samp>
+  <samp>Thank you for visiting my GitHub profile! Have a great day! ✨</samp>
 </p>
