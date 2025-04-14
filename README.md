@@ -9,7 +9,7 @@
 
 ## About Me:
 I'm currently a Computer Science student, actively exploring the tech world while juggling work and study.  
-🎧 I code better with music on. Lo-fi, pop, or whatever fits the mood.  
+🎧 I code better with music on. R&B, pop, hip hop, or whatever fits the mood.  
 📚 I enjoy reading and can get lost in tech, AI, or even history topics for hours.  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustiwdr) 
