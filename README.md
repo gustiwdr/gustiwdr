@@ -2,15 +2,14 @@
 
 <p align="center">
   <samp>💻 Computer Science Student<br>
-  <samp>✨ Passionate in Tech, Code, and Community</samp>
 </p>
 
 ---
 
 ## About Me:
 I'm currently a Computer Science student, actively exploring the tech world while juggling work and study.  
-🎧 I code better with music on. R&B, pop, hip hop, or whatever fits the mood.  
-📚 I enjoy reading and can get lost in tech, AI, fantasy, or even history topics for hours.  
+🎧 I code better with music on—R&B, pop, hip-hop, or whatever fits the mood.
+📚 I love reading and can get lost in tech, AI, fantasy, or even history for hours. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustiwdr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustiputuwulandari) 
