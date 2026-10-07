@@ -7,9 +7,9 @@
 ---
 
 ## About Me:
-I'm currently a Computer Science student, actively exploring the tech world while juggling work and study.  
-🎧 I code better with music on—R&B, jazz. pop, hip-hop, or whatever fits the mood.  
-📚 I love reading and can get lost in fiction, fantasy, tech, AI, or even history for hours. 
+🎓 CS Grad | Tech Explorer 🚀
+🎧 Coding with a soundtrack: R&B, Jazz, Pop & Hip-Hop.
+📚 Lost in pages of AI, Tech, Fantasy & History. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gpwulandr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustiputuwulandari) 
