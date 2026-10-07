@@ -7,9 +7,9 @@
 ---
 
 ## About Me:
-🎓 CS Grad | Tech Explorer 🚀
-🎧 Coding with a soundtrack: R&B, Jazz, Pop & Hip-Hop.
-📚 Lost in pages of AI, Tech, Fantasy & History. 
+🎓 CS Grad | Tech Explorer 🚀  
+🎧 Coding with a soundtrack: R&B, Jazz, Pop & Hip-Hop.  
+📚 Lost in pages of AI, Tech, Fantasy & History.   
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gpwulandr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustiputuwulandari) 
