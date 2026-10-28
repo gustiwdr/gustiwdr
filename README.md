@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Gusti Putu Wulandari!</h1>
-
 <p align="center">
-  <samp>💻 Computer Science Student<br>
+  <samp>💻 Computer Science<br>
 </p>
 
 ---
