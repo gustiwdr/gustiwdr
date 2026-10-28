@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Gusti Putu Wulandari!</h1>
+
 <p align="center">
   <samp>💻 Computer Science<br>
 </p>
-
----
 
 ## About Me:
 🎓 CS Grad | Tech Explorer 🚀  
